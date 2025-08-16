@@ -48,7 +48,7 @@ The challenge lies in handling missing data, engineering meaningful features, an
 
 ## 📊 Results
 
-- **Public Kaggle Score (RMSE): 0.12606**  
+- **Public Kaggle Score (RMSLE): 0.12606**  
 - Achieved through careful feature engineering, regularization, and ensembling.  
 - Feature importance analysis showed that variables like *OverallQual, GrLivArea, TotalSF, GarageCars,* and *Neighborhood* were most influential in predicting sale price.  
 
