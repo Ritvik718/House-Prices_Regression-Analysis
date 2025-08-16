@@ -37,8 +37,8 @@ The challenge lies in handling missing data, engineering meaningful features, an
 
 ### 5. Ensembling
 - Enhanced prediction accuracy through ensemble methods, including:
-	• Stacking Regressor
-	•	Voting Regressor  
+	- Stacking Regressor
+	- Voting Regressor  
 
 ### 6. Evaluation & Submission
 - Predictions were generated on the test dataset.  
