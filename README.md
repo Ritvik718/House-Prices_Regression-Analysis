@@ -31,13 +31,14 @@ The challenge lies in handling missing data, engineering meaningful features, an
 
 ### 4. Modeling
 - Implemented and compared multiple regression models:  
-  - Linear Regression, Ridge, Lasso  
+  - Linear Regression, Ridge
   - Random Forest, Gradient Boosting, XGBoost, LightGBM  
 - Used cross-validation (CV) to avoid overfitting and ensure robustness.  
 
 ### 5. Ensembling
-- Blended top-performing models to leverage their strengths.  
-- Stacking was used with a meta-model to minimize CV error.  
+- Enhanced prediction accuracy through ensemble methods, including:
+	• Stacking Regressor
+	•	Voting Regressor  
 
 ### 6. Evaluation & Submission
 - Predictions were generated on the test dataset.  
